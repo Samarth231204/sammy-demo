@@ -1,3 +1,3 @@
 # sammy-demo
 Demo git repository
-author - Samarth Sharma
+Author - Samarth Sharma
